@@ -1,0 +1,32 @@
+
+
+h2{
+  text-align: center;
+  font-size: 30px;
+}
+
+.title{
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
+
+
+.container {
+  padding: 0 50px;
+}
+.container img{
+  display: block;
+  height: 200px;
+  margin: auto;
+}
+.container h3, p{
+  text-align: center;
+  margin-top: 10px;
+}
+
+img.sky{
+  background-color: #428BCA;
+  height: 250px;
+  border-radius: 50%;
+  padding: 20px;
+}
