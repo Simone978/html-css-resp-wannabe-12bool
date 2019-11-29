@@ -28,8 +28,19 @@ img.sky{
   border-radius: 50%;
   padding: 20px;
 }
+hr{
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
 
 /* media query */
+
+@media screen and (min-width: 992px){
+
+  hr{
+    display: none;
+  }
+}
 
 @media screen and (min-width: 768px) and (max-width: 992px){
 
